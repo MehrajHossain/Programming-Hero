@@ -1,6 +1,15 @@
 function getPin() {
   
-   pin = Math.round(Math.random()*10000);
+  const pin = Math.round(Math.random()*10000);
+ /* 
+ //pin 4 digit setup by string
+   const pinString = pin + '';
+  if(pinString.length == 4) {
+    return pin;
+  }
+  */
+
+  //pin 4 digit setup
   if(pin>999) {
     return pin;
     
