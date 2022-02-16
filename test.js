@@ -1,0 +1,1 @@
+yourElement.addEventListener(typeofEvent, handler);
