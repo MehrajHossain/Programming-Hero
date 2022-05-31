@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04-First Website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/09-leaderboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/14-panda commerce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/29-js-string-array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/32-ES6-Intro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assignment-01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assignment-02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assignment-03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assignment-04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assignment-05" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Resourses/money-master" vcs="Git" />
+  </component>
+</project>
